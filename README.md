@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShrimpyRose
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning the Creative Computing course at Portsmouth University
+- 🌱 I’m currently learning the Computer Games Technology course at Portsmouth University
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
     rose.barfield@outlook.com
